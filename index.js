@@ -13,4 +13,5 @@ function calculateSum(a, b) {
 // calculate the result
 const sum = calculateSum(1, 2);
 
+// printing value
 console.log(sum);
